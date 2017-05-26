@@ -14,6 +14,6 @@ function keyPressed() {
   if(key == ' ') {
     // TODO:
     // WORKING BUT YOU CAN TRY TO IMPLEMENT SMTH BETTER
-    bird.speed = -10;
+    bird.Jump();
   }
 }
