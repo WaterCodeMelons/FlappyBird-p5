@@ -12,6 +12,7 @@ function draw() {
   ground.Render();
 }
 
+
 function keyPressed() {
   if(key == ' ') {
     // TODO:
